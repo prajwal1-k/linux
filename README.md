@@ -66,10 +66,8 @@ chmod +x scripts/example.sh
 Some resources I find useful:
 
 - [The Linux Command Line Book](https://linuxcommand.org/tlcl.php)
-- [Linux Handbook](https://linuxhandbook.com/)
-- [tldr pages](https://tldr.sh/)
-- [explainshell](https://explainshell.com/)
-- [Linux Journey](https://linuxjourney.com/)
+- [Linux from geeksforgeeks tutorial](https://www.geeksforgeeks.org/linux-tutorial)
+- 
 
 ---
 
